@@ -3,9 +3,8 @@
 
 ![Alt Text](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
 
-I'm passionate about Software Engineering and problem-solving In general and Android development in particular.
+I'm passionate about Software Engineering and problem-solving In general and Web development in particular.
 
-Skills: • Java/Kotlin • JetPack Compose •Coroutines • Room, Sqlite • Retrofit, Volley • Picasso, Glide • Firebase Firestore, Authentication, Realtime Database, Storage • Dagger Hilt, Dagger
 
 
 
